@@ -1,6 +1,6 @@
 {
-  "name": "mysqlconnection",
-  "version": "0.0.1",
+  "name": "nodejs-mysql-connection",
+  "version": "0.1.0",
   "description": "mysql connection test",
   "main": "index.js",
   "scripts": {
